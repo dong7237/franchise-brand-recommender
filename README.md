@@ -10,7 +10,6 @@
 | 참여 | 2026 금융 AI Challenge · 2인 팀 |
 | 담당 | 데이터 수집 요구사항, SQL 기반 모델 입력 가공, CatBoost 모델링, 서비스 기획서 작성 |
 | 핵심 기술 | Python · SQL · CatBoostRanker · Pandas · Scikit-learn |
-| 팀 서비스 | [창업동행 웹 MVP](https://franchise-finance-agent.streamlit.app/) |
 
 ## 1. 왜 만들었나
 
