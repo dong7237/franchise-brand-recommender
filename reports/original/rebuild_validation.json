@@ -1,0 +1,60 @@
+{
+  "rebuild_date": "2026-08-28",
+  "source_validation": {
+    "brand_rows": 442,
+    "unique_brands": 439,
+    "industries": 34,
+    "empty_required_values": 0,
+    "invalid_numeric_values": 0,
+    "duplicate_brand_name": "어린이천문대",
+    "duplicate_rows": 4,
+    "duplicate_handling": "마지막 행 사용",
+    "brand_name_overlap_with_previous": 439,
+    "industry_changes": 0,
+    "startup_cost_changes": 439,
+    "sales_value_changes": 0,
+    "store_count_changes": 0,
+    "cat_changes": 269
+  },
+  "label_validation": {
+    "profiles": 10000,
+    "unique_label_brands": 69,
+    "missing_label_brands": 0,
+    "label_industry_conflicts": 0,
+    "user_industries_not_in_brand_catalog": 0
+  },
+  "model_evaluation_before_budget_filter": {
+    "test_profiles": 2000,
+    "hit_at_1": 0.6655,
+    "system_hit_at_4": 0.7795,
+    "industry_hit_at_1": 0.9865,
+    "mean_reciprocal_rank": 0.8081535714285715
+  },
+  "deployed_recommendation_evaluation": {
+    "test_profiles": 2000,
+    "hit_at_1": 0.5755,
+    "system_hit_at_4": 0.701,
+    "industry_hit_at_1": 0.94,
+    "top1_preference_aligned": 1.0,
+    "additional_preference_aligned": 1.0,
+    "profiles_with_4_recommendations": 0.714,
+    "average_recommendations_per_profile": 3.428,
+    "top1_affordable_rate": 0.8445,
+    "all_recommendations_affordable_rate": 0.7920070011668612
+  },
+  "full_output_validation": {
+    "profiles": 10000,
+    "recommendation_rows": 34225,
+    "invalid_brand_rows": 0,
+    "duplicate_profile_brand_rows": 0,
+    "preference_aligned_rate": 1.0,
+    "top1_affordable_rate": 0.8366,
+    "all_recommendations_affordable_rate": 0.7859459459459459,
+    "profiles_without_any_affordable_preferred_brand": 1634,
+    "unique_brands_top1": 99,
+    "unique_brands_any_rank": 309,
+    "top1_changed_rate_vs_previous_model": 0.275
+  },
+  "assessment": "ready_with_caveat",
+  "caveat": "기존 정답은 실제 창업 성과가 아니라 LLM 매칭 결과다. 기타도소매처럼 범위가 넓은 업종은 세부 업태 의미가 약하며, 선호 업종에 예산 가능한 브랜드가 없는 경우 예산 초과 추천이 반환된다."
+}

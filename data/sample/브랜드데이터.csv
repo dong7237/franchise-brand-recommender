@@ -1,0 +1,443 @@
+brand_name,총계,source_url,average_sales_per_3_3sqm,store_count,average_sales_per_3_3sqm_s,store_count_s,총계_s,cat,industry_middle
+짐보리플레이앤뮤직,404000,LLM 추정값,5140.0,9.0,1,1,1,111,유아 관련 (교육 외)
+피자스쿨,69240,https://frandoor.co.kr/brands?search=%ED%94%BC%EC%9E%90%EC%8A%A4%EC%BF%A8,19662.0,642.0,2,2,2,222,피자
+시작스터디카페,120000,LLM 추정값,1761.0,39.0,1,2,1,121,기타 서비스
+꼬치의품격,79160,https://frandoor.co.kr/brands?search=%EA%BC%AC%EC%B9%98%EC%9D%98%ED%92%88%EA%B2%A9,11256.0,6.0,1,1,1,111,기타 외식
+코코호도,7800,https://frandoor.co.kr/brands?search=%EC%BD%94%EC%BD%94%ED%98%B8%EB%8F%84,18803.0,38.0,2,2,2,222,제과제빵
+하남돼지집,44690,https://frandoor.co.kr/brands?search=%ED%95%98%EB%82%A8%EB%8F%BC%EC%A7%80%EC%A7%91,18962.0,48.0,2,2,2,222,한식
+만화카페 벌툰,180000,LLM 추정값,7996.0,33.0,1,2,1,121,기타 서비스
+포아이니(PHOINI),75700,https://frandoor.co.kr/brands?search=%ED%8F%AC%EC%95%84%EC%9D%B4%EB%8B%88%28PHOINI%29,6985.0,8.0,1,1,1,111,기타 외식
+김밥킹,70200,https://frandoor.co.kr/brands?search=%EA%B9%80%EB%B0%A5%ED%82%B9,18437.0,3.0,2,1,1,211,분식
+남다른감자탕,64220,https://frandoor.co.kr/brands?search=%EB%82%A8%EB%8B%A4%EB%A5%B8%EA%B0%90%EC%9E%90%ED%83%95,17736.0,8.0,2,1,2,212,한식
+춘향골남원추어탕,20730,https://frandoor.co.kr/brands?search=%EC%B6%98%ED%96%A5%EA%B3%A8%EB%82%A8%EC%9B%90%EC%B6%94%EC%96%B4%ED%83%95,17963.0,16.0,2,2,2,222,한식
+홍대개미,64360,https://frandoor.co.kr/brands?search=%ED%99%8D%EB%8C%80%EA%B0%9C%EB%AF%B8,23681.0,4.0,2,1,2,212,기타 외식
+외대HS어학원,90000,LLM 추정값,6842.0,3.0,1,1,1,111,교육 (외국어)
+용추골순대미궁,95500,https://frandoor.co.kr/brands?search=%EC%9A%A9%EC%B6%94%EA%B3%A8%EC%88%9C%EB%8C%80%EB%AF%B8%EA%B6%81,16273.0,2.0,1,1,1,111,한식
+호식이두마리치킨,22700,https://frandoor.co.kr/brands?search=%ED%98%B8%EC%8B%9D%EC%9D%B4%EB%91%90%EB%A7%88%EB%A6%AC%EC%B9%98%ED%82%A8,25356436.0,75.0,2,2,2,222,치킨
+엔진마을,80000,LLM 추정값,7369.0,1.0,1,1,1,111,기타도소매
+토마토도시락,65190,https://frandoor.co.kr/brands?search=%ED%86%A0%EB%A7%88%ED%86%A0%EB%8F%84%EC%8B%9C%EB%9D%BD,12846.0,3.0,1,1,2,112,기타 외식
+에바돈가츠,59020,https://frandoor.co.kr/brands?search=%EC%97%90%EB%B0%94%EB%8F%88%EA%B0%80%EC%B8%A0,17729.0,1.0,2,1,2,212,기타 외식
+따띠삼겹,31640,https://frandoor.co.kr/brands?search=%EB%94%B0%EB%9D%A0%EC%82%BC%EA%B2%B9,18065.0,26.0,2,2,2,222,한식
+커피니,52300,https://frandoor.co.kr/brands?search=%EC%BB%A4%ED%94%BC%EB%8B%88,7011.0,9.0,1,1,2,112,커피
+날쌘카페,71250,https://frandoor.co.kr/brands?search=%EB%82%A0%EC%8C%98%EC%B9%B4%ED%8E%98,18810.0,5.0,2,1,1,211,커피
+정동진칼국수,7150,https://frandoor.co.kr/brands?search=%EC%A0%95%EB%8F%99%EC%A7%84%EC%B9%BC%EA%B5%AD%EC%88%98,16841.0,4.0,2,1,2,212,기타 외식
+명가통닭,23500,https://frandoor.co.kr/brands?search=%EB%AA%85%EA%B0%80%ED%86%B5%EB%8B%AD,14158.0,39.0,1,2,2,122,치킨
+국선생,85000,LLM 추정값,36185.0,14.0,2,2,1,221,기타도소매
+소담촌,53060,https://frandoor.co.kr/brands?search=%EC%86%8C%EB%8B%B4%EC%B4%8C,13703.0,25.0,1,2,2,122,기타 외식
+소플러스,44500,https://frandoor.co.kr/brands?search=%EC%86%8C%ED%94%8C%EB%9F%AC%EC%8A%A4,23873.0,3.0,2,1,2,212,한식
+다복향 마라탕,50600,https://frandoor.co.kr/brands?search=%EB%8B%A4%EB%B3%B5%ED%96%A5%20%EB%A7%88%EB%9D%BC%ED%83%95,14154.0,6.0,1,1,2,112,기타 외국식
+맛닭꼬,76890,https://frandoor.co.kr/brands?search=%EB%A7%9B%EB%8B%AD%EA%BC%AC,20094.0,63.0,2,2,1,221,치킨
+새로클린,30000,LLM 추정값,17736.0,17.0,2,2,2,222,세탁
+153구포국수,88200,https://frandoor.co.kr/brands?search=153%EA%B5%AC%ED%8F%AC%EA%B5%AD%EC%88%98,38079.0,31.0,2,2,1,221,한식
+원유로스페셜티커피,81650,https://frandoor.co.kr/brands?search=%EC%9B%90%EC%9C%A0%EB%A1%9C%EC%8A%A4%ED%8E%98%EC%85%9C%ED%8B%B0%EC%BB%A4%ED%94%BC,15427.0,2.0,1,1,1,111,커피
+춘리마라탕,93140,https://frandoor.co.kr/brands?search=%EC%B6%98%EB%A6%AC%EB%A7%88%EB%9D%BC%ED%83%95,42440.0,58.0,2,2,1,221,중식
+쉬즈베이글 커피,70890,https://frandoor.co.kr/brands?search=%EC%89%AC%EC%A6%88%EB%B2%A0%EC%9D%B4%EA%B8%80%20%EC%BB%A4%ED%94%BC,29176.0,28.0,2,2,1,221,기타 외식
+오레노카츠,14760,https://frandoor.co.kr/brands?search=%EC%98%A4%EB%A0%88%EB%85%B8%EC%B9%B4%EC%B8%A0,17707.0,12.0,2,2,2,222,일식
+압구정 봉구비어,68100,https://frandoor.co.kr/brands?search=%EC%95%95%EA%B5%AC%EC%A0%95%20%EB%B4%89%EA%B5%AC%EB%B9%84%EC%96%B4,11031.0,60.0,1,2,2,122,주점
+구름계란덮밥,59300,https://frandoor.co.kr/brands?search=%EA%B5%AC%EB%A6%84%EA%B3%84%EB%9E%80%EB%8D%AE%EB%B0%A5,33471.0,16.0,2,2,2,222,한식
+준코노래타운,44320,https://frandoor.co.kr/brands?search=%EC%A4%80%EC%BD%94%EB%85%B8%EB%9E%98%ED%83%80%EC%9A%B4,10489.0,8.0,1,1,2,112,주점
+아리아케어 방문요양센터,40000,LLM 추정값,42423.0,19.0,2,2,2,222,기타 서비스
+어린이천문대,250000,LLM 추정값,5268.0,21.0,1,2,1,121,기타 교육
+어린이천문대,250000,LLM 추정값,5481.0,19.0,1,2,1,121,기타 교육
+어린이천문대,250000,LLM 추정값,5268.0,21.0,1,2,1,121,기타 교육
+어린이천문대,250000,LLM 추정값,5481.0,19.0,1,2,1,121,기타 교육
+우마이타코야끼,47200,https://frandoor.co.kr/brands?search=%EC%9A%B0%EB%A7%88%EC%9D%B4%ED%83%80%EC%BD%94%EC%95%BC%EB%81%BC,24372.0,9.0,2,1,2,212,일식
+ERC영어독서클럽,30000,LLM 추정값,3159.0,23.0,1,2,2,122,교육 (외국어)
+라와,56700,https://frandoor.co.kr/brands?search=%EB%9D%BC%EC%99%80,23055.0,16.0,2,2,2,222,중식
+NAN갈비장터,38950,https://frandoor.co.kr/brands?search=NAN%EA%B0%88%EB%B9%84%EC%9E%A5%ED%84%B0,9229.0,11.0,1,1,2,112,치킨
+신나게쌈빠찹쌀강정,27400,https://frandoor.co.kr/brands?search=%EC%8B%A0%EB%82%98%EA%B2%8C%EC%8C%88%EB%B9%A0%EC%B0%B9%EC%8C%80%EA%B0%95%EC%A0%95,18634.0,4.0,2,1,2,212,기타 외식
+양심소,86500,https://frandoor.co.kr/brands?search=%EC%96%91%EC%8B%AC%EC%86%8C,26918.0,2.0,2,1,1,211,한식
+컵넛(cupnut),86500,https://frandoor.co.kr/brands?search=%EC%BB%B5%EB%84%9B%28cupnut%29,17963.0,1.0,2,1,1,211,제과제빵
+통큰갈비,3580,https://frandoor.co.kr/brands?search=%ED%86%B5%ED%81%B0%EA%B0%88%EB%B9%84,15564.0,6.0,1,1,2,112,기타 외식
+야끼니꾸소량,11750,https://frandoor.co.kr/brands?search=%EC%95%BC%EB%81%BC%EB%8B%88%EA%BE%B8%EC%86%8C%EB%9F%89,18396.0,11.0,2,1,2,212,일식
+돈까스회관,70100,https://frandoor.co.kr/brands?search=%EB%8F%88%EA%B9%8C%EC%8A%A4%ED%9A%8C%EA%B4%80,21753.0,4.0,2,1,1,211,기타 외식
+에코폰,50000,LLM 추정값,12862.0,18.0,1,2,2,122,기타도소매
+밥스토랑,5930,https://frandoor.co.kr/brands?search=%EB%B0%A5%EC%8A%A4%ED%86%A0%EB%9E%91,21171.0,66.0,2,2,2,222,기타 외식
+세컨페이스,100000,LLM 추정값,9467.0,1.0,1,1,1,111,안경
+쌈촌,62800,https://frandoor.co.kr/brands?search=%EC%8C%88%EC%B4%8C,12758.0,5.0,1,1,2,112,기타 외국식
+버무리떡볶이,61530,https://frandoor.co.kr/brands?search=%EB%B2%84%EB%AC%B4%EB%A6%AC%EB%96%A1%EB%B3%B6%EC%9D%B4,17222.0,7.0,2,1,2,212,분식
+청기와타운,58000,https://frandoor.co.kr/brands?search=%EC%B2%AD%EA%B8%B0%EC%99%80%ED%83%80%EC%9A%B4,33053.0,24.0,2,2,2,222,한식
+가치인 독서논술&디베이트,25000,LLM 추정값,3864.0,3.0,1,1,2,112,기타 교육
+옵티멈존PC카페,300000,LLM 추정값,6251.0,21.0,1,2,1,121,PC방
+철인7호,69650,https://frandoor.co.kr/brands?search=%EC%B2%A0%EC%9D%B87%ED%98%B8,16479.0,3.0,1,1,2,112,치킨
+티나스타일속눈썹&펌,30000,LLM 추정값,2236.0,9.0,1,1,2,112,이미용
+진이찬방,67300,https://frandoor.co.kr/brands?search=%EC%A7%84%EC%9D%B4%EC%B0%AC%EB%B0%A9,15473503.0,18.0,2,2,2,222,한식
+곱분이곱창,58740,https://frandoor.co.kr/brands?search=%EA%B3%B1%EB%B6%84%EC%9D%B4%EA%B3%B1%EC%B0%BD,28080.0,23.0,2,2,2,222,한식
+피자와치킨의러브레터,33700,https://frandoor.co.kr/brands?search=%ED%94%BC%EC%9E%90%EC%99%80%EC%B9%98%ED%82%A8%EC%9D%98%EB%9F%AC%EB%B8%8C%EB%A0%88%ED%84%B0,11308.0,3.0,1,1,2,112,피자
+제육의 법칙,36630,https://frandoor.co.kr/brands?search=%EC%A0%9C%EC%9C%A1%EC%9D%98%20%EB%B2%95%EC%B9%99,7267.0,6.0,1,1,2,112,한식
+아비꼬,89350,https://frandoor.co.kr/brands?search=%EC%95%84%EB%B9%84%EA%BC%AC,25556.0,31.0,2,2,1,221,기타 외식
+조선부뚜막,41700,https://frandoor.co.kr/brands?search=%EC%A1%B0%EC%84%A0%EB%B6%80%EB%9A%9C%EB%A7%89,16392.0,11.0,1,1,2,112,한식
+불아더 숯불바베큐,48360,https://frandoor.co.kr/brands?search=%EB%B6%88%EC%95%84%EB%8D%94%20%EC%88%AF%EB%B6%88%EB%B0%94%EB%B2%A0%ED%81%90,20746.0,4.0,2,1,2,212,치킨
+송사부고로케,85650,https://frandoor.co.kr/brands?search=%EC%86%A1%EC%82%AC%EB%B6%80%EA%B3%A0%EB%A1%9C%EC%BC%80,53530.0,19.0,2,2,1,221,제과제빵
+자가제빵 선명희피자,60200,https://frandoor.co.kr/brands?search=%EC%9E%90%EA%B0%80%EC%A0%9C%EB%B9%B5%20%EC%84%A0%EB%AA%85%ED%9D%AC%ED%94%BC%EC%9E%90,15232.0,14.0,1,2,2,122,피자
+양산도,11200,https://frandoor.co.kr/brands?search=%EC%96%91%EC%82%B0%EB%8F%84,866383.0,13.0,2,2,2,222,한식
+노량진의 전설 미스사이공(miss420),60390,https://frandoor.co.kr/brands?search=%EB%85%B8%EB%9F%89%EC%A7%84%EC%9D%98%20%EC%A0%84%EC%84%A4%20%EB%AF%B8%EC%8A%A4%EC%82%AC%EC%9D%B4%EA%B3%B5%28miss420%29,11602.0,27.0,1,2,2,122,기타 외국식
+이원건강의료기,100000,LLM 추정값,5746.0,13.0,1,2,1,121,기타도소매
+제비파스타&리조또,52710,https://frandoor.co.kr/brands?search=%EC%A0%9C%EB%B9%84%ED%8C%8C%EC%8A%A4%ED%83%80%26%EB%A6%AC%EC%A1%B0%EB%98%90,39951.0,9.0,2,1,2,212,서양식
+구삼짜글이,28100,https://frandoor.co.kr/brands?search=%EA%B5%AC%EC%82%BC%EC%A7%9C%EA%B8%80%EC%9D%B4,22463.0,2.0,2,1,2,212,한식
+대한냉면,56040,https://frandoor.co.kr/brands?search=%EB%8C%80%ED%95%9C%EB%83%89%EB%A9%B4,55387.0,18.0,2,2,2,222,한식
+커피무카24,53400,https://frandoor.co.kr/brands?search=%EC%BB%A4%ED%94%BC%EB%AC%B4%EC%B9%B424,6998.0,14.0,1,2,2,122,커피
+떡의작품,58000,https://frandoor.co.kr/brands?search=%EB%96%A1%EC%9D%98%EC%9E%91%ED%92%88,27136.0,6.0,2,1,2,212,분식
+크로앙쥬,55000,https://frandoor.co.kr/brands?search=%ED%81%AC%EB%A1%9C%EC%95%99%EC%A5%AC,19384.0,2.0,2,1,2,212,제과제빵
+태성춘골뱅이신사,62550,https://frandoor.co.kr/brands?search=%ED%83%9C%EC%84%B1%EC%B6%98%EA%B3%A8%EB%B1%85%EC%9D%B4%EC%8B%A0%EC%82%AC,14914.0,16.0,1,2,2,122,한식
+미카도스시,70550,https://frandoor.co.kr/brands?search=%EB%AF%B8%EC%B9%B4%EB%8F%84%EC%8A%A4%EC%8B%9C,22371.0,6.0,2,1,1,211,일식
+탄광맥주,88900,https://frandoor.co.kr/brands?search=%ED%83%84%EA%B4%91%EB%A7%A5%EC%A3%BC,13728.0,1.0,1,1,1,111,주점
+감성커피,42400,https://frandoor.co.kr/brands?search=%EA%B0%90%EC%84%B1%EC%BB%A4%ED%94%BC,15664.0,26.0,1,2,2,122,커피
+소소떡볶이,55690,https://frandoor.co.kr/brands?search=%EC%86%8C%EC%86%8C%EB%96%A1%EB%B3%B6%EC%9D%B4,23110.0,9.0,2,1,2,212,분식
+죽도령,31750,https://frandoor.co.kr/brands?search=%EC%A3%BD%EB%8F%84%EB%A0%B9,11815.0,11.0,1,1,2,112,한식
+짱닭치킨,38020,https://frandoor.co.kr/brands?search=%EC%A7%B1%EB%8B%AD%EC%B9%98%ED%82%A8,16482.0,12.0,1,2,2,122,치킨
+점핑하이,70000,LLM 추정값,2946.0,41.0,1,2,2,122,스포츠 관련
+명태어장앤쭈갑골,90600,https://frandoor.co.kr/brands?search=%EB%AA%85%ED%83%9C%EC%96%B4%EC%9E%A5%EC%95%A4%EC%AD%88%EA%B0%91%EA%B3%A8,13754.0,5.0,1,1,1,111,한식
+리얼안심탕수육,32650,https://frandoor.co.kr/brands?search=%EB%A6%AC%EC%96%BC%EC%95%88%EC%8B%AC%ED%83%95%EC%88%98%EC%9C%A1,5513.0,4.0,1,1,2,112,기타 외식
+피슈 마라홍탕,7150,https://frandoor.co.kr/brands?search=%ED%94%BC%EC%8A%88%20%EB%A7%88%EB%9D%BC%ED%99%8D%ED%83%95,16571.0,8.0,1,1,2,112,중식
+김호두(kimhodu),69120,https://frandoor.co.kr/brands?search=%EA%B9%80%ED%98%B8%EB%91%90%28kimhodu%29,23417.0,3.0,2,1,2,212,제과제빵
+JINY's(지니스),60000,LLM 추정값,9726.0,1.0,1,1,2,112,안경
+파파존스피자,19130,https://frandoor.co.kr/brands?search=%ED%8C%8C%ED%8C%8C%EC%A1%B4%EC%8A%A4%ED%94%BC%EC%9E%90,29091.0,70.0,2,2,2,222,피자
+영자's곱창,43900,https://frandoor.co.kr/brands?search=%EC%98%81%EC%9E%90%27s%EA%B3%B1%EC%B0%BD,17112.0,17.0,2,2,2,222,한식
+수유리우동집,82500,https://frandoor.co.kr/brands?search=%EC%88%98%EC%9C%A0%EB%A6%AC%EC%9A%B0%EB%8F%99%EC%A7%91,19709.0,32.0,2,2,1,221,분식
+더홀릭보드게임카페,130000,LLM 추정값,5806.0,8.0,1,1,1,111,오락
+양마니찌개마을,6800,https://frandoor.co.kr/brands?search=%EC%96%91%EB%A7%88%EB%8B%88%EC%B0%8C%EA%B0%9C%EB%A7%88%EC%9D%84,18463.0,1.0,2,1,2,212,한식
+문구야놀자,45000,LLM 추정값,10332.0,52.0,1,2,2,122,기타도소매
+미스터국수왕,10950,https://frandoor.co.kr/brands?search=%EB%AF%B8%EC%8A%A4%ED%84%B0%EA%B5%AD%EC%88%98%EC%99%95,15782.0,14.0,1,2,2,122,분식
+코리안바베큐,71000,https://frandoor.co.kr/brands?search=%EC%BD%94%EB%A6%AC%EC%95%88%EB%B0%94%EB%B2%A0%ED%81%90,13436.0,8.0,1,1,1,111,치킨
+바퀴달린그림책,70000,LLM 추정값,4412.0,7.0,1,1,2,112,유아 관련 (교육 외)
+밥스틸러 김치찜,23100,https://frandoor.co.kr/brands?search=%EB%B0%A5%EC%8A%A4%ED%8B%B8%EB%9F%AC%20%EA%B9%80%EC%B9%98%EC%B0%9C,24781.0,3.0,2,1,2,212,한식
+봉추찜닭,30960,https://frandoor.co.kr/brands?search=%EB%B4%89%EC%B6%94%EC%B0%9C%EB%8B%AD,14933.0,49.0,1,2,2,122,한식
+삼겹식당,95400,https://frandoor.co.kr/brands?search=%EC%82%BC%EA%B2%B9%EC%8B%9D%EB%8B%B9,21847.0,2.0,2,1,1,211,기타 외식
+롤로토바코샵,40000,LLM 추정값,13258.0,11.0,1,1,2,112,기타도소매
+반미362,65620,https://frandoor.co.kr/brands?search=%EB%B0%98%EB%AF%B8362,21451.0,9.0,2,1,2,212,기타 외국식
+더맛있는족발보쌈,93200,https://frandoor.co.kr/brands?search=%EB%8D%94%EB%A7%9B%EC%9E%88%EB%8A%94%EC%A1%B1%EB%B0%9C%EB%B3%B4%EC%8C%88,38556.0,22.0,2,2,1,221,한식
+깐부치킨,51100,https://frandoor.co.kr/brands?search=%EA%B9%90%EB%B6%80%EC%B9%98%ED%82%A8,17963.0,81.0,2,2,2,222,치킨
+통인익스프레스,100000,LLM 추정값,4862.0,41.0,1,2,1,121,이사
+징기스,1030,https://frandoor.co.kr/brands?search=%EC%A7%95%EA%B8%B0%EC%8A%A4,27341.0,2.0,2,1,2,212,기타 외식
+토리키치,4730,https://frandoor.co.kr/brands?search=%ED%86%A0%EB%A6%AC%ED%82%A4%EC%B9%98,15692.0,15.0,1,2,2,122,기타 외식
+허갈닭강정,19300,https://frandoor.co.kr/brands?search=%ED%97%88%EA%B0%88%EB%8B%AD%EA%B0%95%EC%A0%95,20138.0,1.0,2,1,2,212,치킨
+밥에큐 치킨,70000,LLM 추정값,17694.0,1.0,2,1,2,212,치킨
+마일로(MILO),65800,https://frandoor.co.kr/brands?search=%EB%A7%88%EC%9D%BC%EB%A1%9C%28MILO%29,10482.0,1.0,1,1,2,112,커피
+청담곱떡,2620,https://frandoor.co.kr/brands?search=%EC%B2%AD%EB%8B%B4%EA%B3%B1%EB%96%A1,696.0,10.0,1,1,2,112,기타 외식
+미샤,150000,LLM 추정값,28473.0,3.0,2,1,1,211,화장품
+또래오래,32680,https://frandoor.co.kr/brands?search=%EB%98%90%EB%9E%98%EC%98%A4%EB%9E%98,12521.0,65.0,1,2,2,122,치킨
+궁채,16400,https://frandoor.co.kr/brands?search=%EA%B6%81%EC%B1%84,19257.0,4.0,2,1,2,212,한식
+101번지 남산돈까스,22780,https://frandoor.co.kr/brands?search=101%EB%B2%88%EC%A7%80%20%EB%82%A8%EC%82%B0%EB%8F%88%EA%B9%8C%EC%8A%A4,22132.0,7.0,2,1,2,212,기타 외식
+카페띠아모,71850,https://frandoor.co.kr/brands?search=%EC%B9%B4%ED%8E%98%EB%9D%A0%EC%95%84%EB%AA%A8,7858.0,10.0,1,1,1,111,커피
+교동전선생,91500,https://frandoor.co.kr/brands?search=%EA%B5%90%EB%8F%99%EC%A0%84%EC%84%A0%EC%83%9D,16924.0,18.0,2,2,1,221,한식
+목우촌웰빙마을,7570,https://frandoor.co.kr/brands?search=%EB%AA%A9%EC%9A%B0%EC%B4%8C%EC%9B%B0%EB%B9%99%EB%A7%88%EC%9D%84,16642.0,9.0,1,1,2,112,기타 외식
+카페16온스,80000,https://frandoor.co.kr/brands?search=%EC%B9%B4%ED%8E%9816%EC%98%A8%EC%8A%A4,14362.0,2.0,1,1,1,111,커피
+저스트텐동,10490,https://frandoor.co.kr/brands?search=%EC%A0%80%EC%8A%A4%ED%8A%B8%ED%85%90%EB%8F%99,22694.0,3.0,2,1,2,212,일식
+하이오커피,71100,https://frandoor.co.kr/brands?search=%ED%95%98%EC%9D%B4%EC%98%A4%EC%BB%A4%ED%94%BC,18605.0,13.0,2,2,1,221,커피
+경양카츠,12450,https://frandoor.co.kr/brands?search=%EA%B2%BD%EC%96%91%EC%B9%B4%EC%B8%A0,21720.0,7.0,2,1,2,212,일식
+HOTEL-LAUNDRY 호텔런드리,180000,LLM 추정값,3634.0,18.0,1,2,1,121,세탁
+빨간펜 수학의 달인,40000,LLM 추정값,1783.0,75.0,1,2,2,122,교육 (교과)
+모두의죽,43700,https://frandoor.co.kr/brands?search=%EB%AA%A8%EB%91%90%EC%9D%98%EC%A3%BD,50306.0,16.0,2,2,2,222,한식
+제로100피씨(ZERO100PC),300000,LLM 추정값,5728.0,62.0,1,2,1,121,PC방
+본래순대,86790,https://frandoor.co.kr/brands?search=%EB%B3%B8%EB%9E%98%EC%88%9C%EB%8C%80,7121.0,13.0,1,2,1,121,한식
+리드101,80000,LLM 추정값,7499.0,28.0,1,2,1,121,교육 (외국어)
+자라다남아미술학원,70000,LLM 추정값,8161.0,17.0,1,2,2,122,기타 교육
+다가치통닭,41750,https://frandoor.co.kr/brands?search=%EB%8B%A4%EA%B0%80%EC%B9%98%ED%86%B5%EB%8B%AD,15837.0,24.0,1,2,2,122,치킨
+크레이저커피(C.Razer Coffee),65030,https://frandoor.co.kr/brands?search=%ED%81%AC%EB%A0%88%EC%9D%B4%EC%A0%80%EC%BB%A4%ED%94%BC%28C.Razer%20Coffee%29,8654.0,6.0,1,1,2,112,커피
+구구족,62650,https://frandoor.co.kr/brands?search=%EA%B5%AC%EA%B5%AC%EC%A1%B1,51253.0,26.0,2,2,2,222,한식
+토니모리,150000,LLM 추정값,51594.0,13.0,2,2,1,221,화장품
+찜꽁찜닭,61600,https://frandoor.co.kr/brands?search=%EC%B0%9C%EA%BD%81%EC%B0%9C%EB%8B%AD,18672.0,3.0,2,1,2,212,한식
+도시곳간,34500,https://frandoor.co.kr/brands?search=%EB%8F%84%EC%8B%9C%EA%B3%B3%EA%B0%84,19212.0,7.0,2,1,2,212,기타 외식
+참다한홍삼,120000,LLM 추정값,11872.0,4.0,1,1,1,111,기타도소매
+콩심,91550,https://frandoor.co.kr/brands?search=%EC%BD%A9%EC%8B%AC,19401.0,19.0,2,2,1,221,기타 외식
+정통집,68450,https://frandoor.co.kr/brands?search=%EC%A0%95%ED%86%B5%EC%A7%91,26041.0,11.0,2,1,2,212,한식
+드라이빙존운전면허,200000,LLM 추정값,2179.0,5.0,1,1,1,111,기타 교육
+히스피(HISFFEE),50300,https://frandoor.co.kr/brands?search=%ED%9E%88%EC%8A%A4%ED%94%BC%28HISFFEE%29,12749.0,8.0,1,1,2,112,커피
+오한수우육면가,5100,https://frandoor.co.kr/brands?search=%EC%98%A4%ED%95%9C%EC%88%98%EC%9A%B0%EC%9C%A1%EB%A9%B4%EA%B0%80,12947.0,40.0,1,2,2,122,중식
+카페동네,41000,https://frandoor.co.kr/brands?search=%EC%B9%B4%ED%8E%98%EB%8F%99%EB%84%A4,10936.0,4.0,1,1,2,112,커피
+신머이,60370,https://frandoor.co.kr/brands?search=%EC%8B%A0%EB%A8%B8%EC%9D%B4,8340.0,8.0,1,1,2,112,기타 외국식
+세광양대창,73550,https://frandoor.co.kr/brands?search=%EC%84%B8%EA%B4%91%EC%96%91%EB%8C%80%EC%B0%BD,20367.0,23.0,2,2,1,221,기타 외식
+누구나홀딱반한닭,81140,https://frandoor.co.kr/brands/ftc-20110100603,19051.0,38.0,2,2,1,221,치킨
+오복미역,172750,https://frandoor.co.kr/brands/ftc-20160153,18736.0,1.0,2,1,1,211,한식
+육회말투아웃,54630,https://frandoor.co.kr/brands/ftc-20160945,26318.0,1.0,2,1,2,212,기타 외식
+일품양평해장국,74880,https://frandoor.co.kr/brands/ftc-20180410,17613.0,29.0,2,2,1,221,한식
+김치찌개미화식당,94820,https://frandoor.co.kr/brands/ftc-20190636,15842.0,4.0,1,1,1,111,한식
+바른치킨,49400,https://frandoor.co.kr/brands/ftc-20150930,18071421.0,38.0,2,2,2,222,치킨
+튀봉이의뻥튀기공작소,50000,LLM 추정값,5494.0,10.0,1,1,2,112,기타도소매
+치어스,119760,https://frandoor.co.kr/brands/ftc-20080200008,8473.0,11.0,1,1,1,111,주점
+굿맘할매순대국&양선지해장국,53500,https://frandoor.co.kr/brands/ftc-20161227,12039.0,16.0,1,2,2,122,한식
+코딩앤플레이,50000,LLM 추정값,4186.0,2.0,1,1,2,112,기타 교육
+행복가마솥밥&알솥밥,131710,https://frandoor.co.kr/brands/ftc-20170703,23980.0,5.0,2,1,1,211,한식
+채선당도시락&샐러드,93080,https://frandoor.co.kr/brands/ftc-20200017,16328.0,1.0,1,1,1,111,기타 외식
+미태리,41350,https://frandoor.co.kr/brands/ftc-20181061,17151.0,23.0,2,2,2,222,서양식
+처갓집양념치킨,29050,https://frandoor.co.kr/brands/ftc-20080200106,41024.0,128.0,2,2,2,222,치킨
+더꼬치다,31800,https://frandoor.co.kr/brands/ftc-20190139,13961.0,8.0,1,1,2,112,기타 외식
+조선화로닭발,76800,https://frandoor.co.kr/brands/ftc-20210827,20534.0,8.0,2,1,1,211,한식
+한촌설렁탕,149100,https://frandoor.co.kr/brands/ftc-20090100478,16931.0,33.0,2,2,1,221,한식
+와이즈만영재교육,80000,LLM 추정값,5028.0,12.0,1,2,1,121,교육 (교과)
+따르릉,40000,LLM 추정값,9627.0,21.0,1,2,2,122,기타 서비스
+달콤왕가탕후루,74910,https://frandoor.co.kr/brands/ftc-20200176,18497.0,26.0,2,2,1,221,기타 외국식
+군자대한곱창,110550,https://frandoor.co.kr/brands/ftc-20190352,30629.0,6.0,2,1,1,211,기타 외식
+밤하늘포차 연어육회,32350,https://frandoor.co.kr/brands/ftc-20201059,21873.0,4.0,2,1,2,212,주점
+청록미나리식당,71850,https://frandoor.co.kr/brands/ftc-20212722,16107.0,16.0,1,2,1,121,한식
+카페게이트,72730,https://frandoor.co.kr/brands/ftc-20150253,15348.0,31.0,1,2,1,121,커피
+우이락,118500,https://frandoor.co.kr/brands/ftc-20220789,23933.0,15.0,2,2,1,221,한식
+잭슨피자,169760,https://frandoor.co.kr/brands/ftc-20210148,31956.0,25.0,2,2,1,221,피자
+풍덕천 두꺼비집,102300,https://frandoor.co.kr/brands/ftc-20213039,29476.0,2.0,2,1,1,211,주점
+천사곱창,59100,https://frandoor.co.kr/brands/ftc-20160760,27641.0,5.0,2,1,2,212,한식
+캠핑고래,150000,LLM 추정값,12639.0,1.0,1,1,1,111,기타도소매
+뉴욕야시장,85840,https://frandoor.co.kr/brands/ftc-20160803,9774.0,6.0,1,1,1,111,주점
+홀리앤졸리,77000,https://frandoor.co.kr/brands/ftc-20213619,10482.0,2.0,1,1,1,111,제과제빵
+제주옥탑,128700,https://frandoor.co.kr/brands/ftc-20212021,32157.0,1.0,2,1,1,211,한식
+PC토랑,220,https://frandoor.co.kr/brands/ftc-20211891,8136.0,71.0,1,2,2,122,패스트푸드
+스크린토랑,4290,https://frandoor.co.kr/brands/ftc-20211437,6943.0,4.0,1,1,2,112,패스트푸드
+순남시래기,113300,https://frandoor.co.kr/brands/ftc-20150356,15367.0,14.0,1,2,1,121,기타 외식
+호텔토랑,6490,https://frandoor.co.kr/brands/ftc-20214750,17395.0,2.0,2,1,2,212,패스트푸드
+리틀꼬마김밥,52900,https://frandoor.co.kr/brands/ftc-20201484,11874.0,1.0,1,1,2,112,분식
+아웃닭,101400,https://frandoor.co.kr/brands/ftc-20110300082,20190.0,6.0,2,1,1,211,치킨
+포메인,185950,https://frandoor.co.kr/brands/ftc-20100100405,14535.0,25.0,1,2,1,121,기타 외식
+도담도담 산후도우미,30000,LLM 추정값,6378.0,9.0,1,1,2,112,인력 파견
+병아리김밥,51960,https://frandoor.co.kr/brands/ftc-20212168,13169.0,9.0,1,1,2,112,기타 외식
+까까주까,50000,LLM 추정값,11423.0,56.0,1,2,2,122,기타도소매
+국풀국어전문학원,50000,LLM 추정값,5726.0,3.0,1,1,2,112,교육 (교과)
+김밥천국,100000,LLM 추정값,24681.0,48.0,2,2,1,221,분식
+기파랑문해원,70000,LLM 추정값,12640.0,13.0,1,2,2,122,교육 (교과)
+THE달달,80000,LLM 추정값,4375.0,53.0,1,2,1,121,기타도소매
+댄싱컵(DANCINGCUP),64600,https://frandoor.co.kr/brands/ftc-20201869,12847.0,3.0,1,1,2,112,커피
+지쿠(Gcoo),100000,LLM 추정값,7841.0,1.0,1,1,1,111,임대
+쏭스클럽핫도그,49500,https://frandoor.co.kr/brands/ftc-20141047,15692.0,3.0,1,1,2,112,기타 외식
+제주까망돼지,20400,https://frandoor.co.kr/brands/ftc-20180310,33814.0,1.0,2,1,2,212,한식
+공차,150800,https://frandoor.co.kr/brands/ftc-20130100052,20732.0,168.0,2,2,1,221,음료 (커피 외)
+커피사피엔스,90290,https://frandoor.co.kr/brands/ftc-20171478,15566.0,48.0,1,2,1,121,커피
+이바우국밥,37300,https://frandoor.co.kr/brands/ftc-20221447,15942.0,12.0,1,2,2,122,한식
+달빛경성술집,39700,https://frandoor.co.kr/brands/ftc-20180834,11938.0,6.0,1,1,2,112,주점
+제주스,136300,https://frandoor.co.kr/brands/ftc-20170185,19125.0,12.0,2,2,1,221,음료 (커피 외)
+미술로생각하기,70000,LLM 추정값,4065.0,21.0,1,2,2,122,유아 관련 (교육 외)
+101프렙,60000,LLM 추정값,2310.0,12.0,1,2,2,122,교육 (외국어)
+효자동솥뚜껑삼겹살감자탕순대국,71200,https://frandoor.co.kr/brands/ftc-20214653,8952.0,6.0,1,1,1,111,한식
+데이롱카페,70000,LLM 추정값,5417.0,77.0,1,2,2,122,기타도소매
+토마토김밥,63230,https://frandoor.co.kr/brands/ftc-20100100453,23805.0,32.0,2,2,2,222,분식
+담솥,78000,https://frandoor.co.kr/brands/ftc-20220875,27163.0,11.0,2,1,1,211,한식
+꺼꾸잽이 초장집,98650,https://frandoor.co.kr/brands/ftc-20220090,14928.0,9.0,1,1,1,111,기타 외식
+트리플에이커피,59200,https://frandoor.co.kr/brands/ftc-20200994,14279.0,17.0,1,2,2,122,커피
+커피랑도서관,150000,LLM 추정값,1434.0,14.0,1,2,1,121,기타 서비스
+블럭제빵소,109350,https://frandoor.co.kr/brands/ftc-20161181,13654.0,6.0,1,1,1,111,제과제빵
+루트원,70000,LLM 추정값,10.0,12.0,1,2,2,122,기타 교육
+커피인류,90860,https://frandoor.co.kr/brands/ftc-20220605,18660.0,17.0,2,2,1,221,커피
+몰틀리,193270,https://frandoor.co.kr/brands/ftc-20180570,16827.0,5.0,2,1,1,211,기타 외식
+아이스 앤 몬스터 문구,50000,LLM 추정값,13449.0,6.0,1,1,2,112,기타도소매
+솥고집,156540,https://frandoor.co.kr/brands/ftc-20214949,32942.0,7.0,2,1,1,211,한식
+국밥대장,58910,https://frandoor.co.kr/brands/ftc-20211147,17408.0,3.0,2,1,2,212,한식
+카페프리헷,68760,https://frandoor.co.kr/brands/ftc-20230159,6267.0,46.0,1,2,2,122,커피
+한앤둘치킨,81310,https://frandoor.co.kr/brands/ftc-20090100577,5200.0,9.0,1,1,1,111,치킨
+택이네 조개전골,108900,https://frandoor.co.kr/brands/ftc-20190218,9566.0,7.0,1,1,1,111,한식
+엘리팝,76580,https://frandoor.co.kr/brands/ftc-20080100092,12396.0,3.0,1,1,1,111,주점
+청년고기장수,190190,https://frandoor.co.kr/brands/ftc-20200969,16340.0,13.0,1,2,1,121,한식
+꼬지사께,66140,https://frandoor.co.kr/brands/ftc-20100100504,14411321.0,9.0,2,1,2,212,주점
+피자스웨그,63260,https://frandoor.co.kr/brands/ftc-20210564,28741.0,1.0,2,1,2,212,피자
+달.콤(dal.komm),188000,https://frandoor.co.kr/brands/ftc-20120100121,21872.0,8.0,2,1,1,211,커피
+한남동그집,61000,https://frandoor.co.kr/brands/ftc-20130100171,12784.0,9.0,1,1,2,112,주점
+강릉엄지네꼬막집,27000,https://frandoor.co.kr/brands/ftc-20201047,18557.0,10.0,2,1,2,212,한식
+은화수식당,83100,https://frandoor.co.kr/brands/ftc-20140160,21596.0,6.0,2,1,1,211,기타 외식
+후토루,124890,https://frandoor.co.kr/brands/ftc-20212528,8617.0,10.0,1,1,1,111,일식
+밀회관,97250,https://frandoor.co.kr/brands/ftc-20190495,15243.0,3.0,1,1,1,111,주점
+훌랄라,132900,https://frandoor.co.kr/brands/ftc-20080100261,11315.0,32.0,1,2,1,121,치킨
+평화김해뒷고기,90760,https://frandoor.co.kr/brands/ftc-20211440,26785.0,2.0,2,1,1,211,한식
+파란만잔,127240,https://frandoor.co.kr/brands/ftc-20211593,15802.0,15.0,1,2,1,121,커피
+대만족,85780,https://frandoor.co.kr/brands/ftc-20200633,23149.0,4.0,2,1,1,211,한식
+순대실록,129900,https://frandoor.co.kr/brands/ftc-20190694,16741.0,22.0,2,2,1,221,한식
+솔솥,148790,https://frandoor.co.kr/brands/ftc-20211882,27148.0,23.0,2,2,1,221,한식
+김사부의곱창명가,51900,https://frandoor.co.kr/brands/ftc-20221037,27019.0,11.0,2,1,2,212,한식
+뚜선장 쭈꾸미호,51900,https://frandoor.co.kr/brands/ftc-20221036,7842.0,10.0,1,1,2,112,한식
+토리헤어,120000,LLM 추정값,4326.0,16.0,1,2,1,121,이미용
+아이드블랑,150000,LLM 추정값,6994.0,4.0,1,1,1,111,이미용
+그로잉살롱,130000,LLM 추정값,7518.0,9.0,1,1,1,111,이미용
+보영만두,89800,https://frandoor.co.kr/brands/ftc-20150438,41535.0,6.0,2,1,1,211,분식
+뜸들이다,35800,https://frandoor.co.kr/brands/ftc-20201106,14978.0,26.0,1,2,2,122,한식
+남썬치킨,45450,https://frandoor.co.kr/brands/ftc-20221049,16782.0,4.0,2,1,2,212,치킨
+힘난다버거,88100,https://frandoor.co.kr/brands/ftc-20201148,28347.0,5.0,2,1,1,211,패스트푸드
+누들보쌈배달만족,53480,https://frandoor.co.kr/brands/ftc-20200430,21934.0,3.0,2,1,2,212,한식
+헬키푸키,84500,https://frandoor.co.kr/brands/ftc-20220073,32128.0,15.0,2,2,1,221,기타 외식
+더필름,120000,LLM 추정값,5556.0,11.0,1,1,1,111,기타 서비스
+귀한족발,91110,https://frandoor.co.kr/brands/ftc-20190687,45140.0,50.0,2,2,1,221,기타 외식
+공만치킨,67570,https://frandoor.co.kr/brands/ftc-20210311,19387.0,4.0,2,1,2,212,치킨
+전기구이 이한량통닭,36950,https://frandoor.co.kr/brands/ftc-20220668,21264.0,1.0,2,1,2,212,치킨
+그라츠커피랩(GRAZ COFFEE LAB),106520,https://frandoor.co.kr/brands/ftc-20220924,7947.0,6.0,1,1,1,111,커피
+후라이드 참 잘하는집,48500,https://frandoor.co.kr/brands/ftc-20170439,61144.0,45.0,2,2,2,222,치킨
+팔공티,80150,https://frandoor.co.kr/brands/ftc-20171075,10864.0,17.0,1,2,1,121,음료 (커피 외)
+홍춘천,127850,https://frandoor.co.kr/brands/ftc-20150939,1625.0,9.0,1,1,1,111,한식
+번쩍피자,62400,https://frandoor.co.kr/brands/ftc-20230725,64802.0,20.0,2,2,2,222,피자
+역전할머니맥주1982,89670,https://frandoor.co.kr/brands/ftc-20161219,20775.0,132.0,2,2,1,221,주점
+모던필라테스MPI,150000,LLM 추정값,5248.0,48.0,1,2,1,121,기타 서비스
+플레이(pley),70000,LLM 추정값,8936.0,1.0,1,1,2,112,기타 서비스
+투파인드피터,275060,https://frandoor.co.kr/brands/ftc-20211181,10418.0,5.0,1,1,1,111,서양식
+한스델리,93000,https://frandoor.co.kr/brands/ftc-20080100446,6451.0,641.0,1,2,1,121,기타 외식
+맹호수제돈까스,56650,https://frandoor.co.kr/brands/ftc-20230786,20147.0,1.0,2,1,2,212,한식
+생마차,82940,https://frandoor.co.kr/brands/ftc-20231209,31726.0,52.0,2,2,1,221,주점
+정석닭강정,48000,https://frandoor.co.kr/brands/ftc-20220919,17639.0,3.0,2,1,2,212,치킨
+금복주류,64700,https://frandoor.co.kr/brands/ftc-20200561,16027768.0,8.0,2,1,2,212,주점
+간빠이,78450,https://frandoor.co.kr/brands/ftc-20150884,14352.0,6.0,1,1,1,111,주점
+에그박스,52000,https://frandoor.co.kr/brands/ftc-20200159,19426.0,5.0,2,1,2,212,기타 외식
+노가리&BEER,73770,https://frandoor.co.kr/brands/ftc-20161067,12167.0,5.0,1,1,1,111,기타 외식
+메이크어딜리버리,33590,https://frandoor.co.kr/brands/ftc-20200174,59784.0,12.0,2,2,2,222,기타 외식
+마라홀릭,77680,https://frandoor.co.kr/brands/ftc-20190875,15679.0,10.0,1,1,1,111,중식
+라밥,83100,https://frandoor.co.kr/brands/ftc-20190942,27076.0,22.0,2,2,1,221,분식
+판타스틱 코인 노래연습장,180000,LLM 추정값,5433.0,14.0,1,2,1,121,오락
+리김밥,70290,https://frandoor.co.kr/brands/ftc-20150522,29679.0,20.0,2,2,1,221,분식
+서오릉피자,94560,https://frandoor.co.kr/brands/ftc-20200152,42361.0,31.0,2,2,1,221,피자
+옐로우피자(YELLOW PIZZA),53680,https://frandoor.co.kr/brands/ftc-20170664,37941.0,14.0,2,2,2,222,피자
+포토시그니처,120000,LLM 추정값,13763.0,29.0,1,2,1,121,기타 서비스
+올떡,70130,https://frandoor.co.kr/brands/ftc-20080100650,12406.0,10.0,1,1,1,111,분식
+제너스 PC,300000,LLM 추정값,7462.0,4.0,1,1,1,111,PC방
+시너지플레이스,150000,LLM 추정값,6754.0,4.0,1,1,1,111,기타 교육
+호주에서 온 스시,60750,https://frandoor.co.kr/brands/ftc-20214660,25918.0,1.0,2,1,2,212,일식
+라멘선생,21030,https://frandoor.co.kr/brands/ftc-20200843,20386.0,2.0,2,1,2,212,일식
+포 시애틀,16550,https://frandoor.co.kr/brands/ftc-20215781,17969.0,12.0,2,2,2,222,기타 외국식
+족발야시장,92100,https://frandoor.co.kr/brands/ftc-20160773,25378.0,34.0,2,2,1,221,기타 외식
+무청감자탕,92100,https://frandoor.co.kr/brands/ftc-20214600,21133.0,20.0,2,2,1,221,한식
+컬투치킨,70770,https://frandoor.co.kr/brands/ftc-20100100628,21594.0,8.0,2,1,1,211,치킨
+빙달,43140,https://frandoor.co.kr/brands/ftc-20151176,11753.0,12.0,1,2,2,122,아이스크림/빙수 
+오사이초밥,84620,https://frandoor.co.kr/brands/ftc-20213068,18283.0,18.0,2,2,1,221,일식
+유가네,101800,https://frandoor.co.kr/brands/ftc-20130452,23814.0,23.0,2,2,1,221,한식
+명랑부대찌개&낙곱새,34980,https://frandoor.co.kr/brands/ftc-20200032,8362.0,10.0,1,1,2,112,한식
+오늘통닭,64700,https://frandoor.co.kr/brands/ftc-20090100082,15031.0,15.0,1,2,2,122,치킨
+장호덕손만두,39150,https://frandoor.co.kr/brands/ftc-20181053,11955.0,17.0,1,2,2,122,분식
+데니스,42850,https://frandoor.co.kr/brands/ftc-20130100278,9321.0,8.0,1,1,2,112,커피
+편편집,186850,https://frandoor.co.kr/brands/ftc-20220426,22070.0,10.0,2,1,1,211,한식
+달리는커피,46330,https://frandoor.co.kr/brands/ftc-20180171,11473.0,35.0,1,2,2,122,커피
+WITCH COFFEE,87500,https://frandoor.co.kr/brands/ftc-20151270,9864.0,1.0,1,1,1,111,기타 외식
+꼴목,55550,https://frandoor.co.kr/brands/ftc-20190876,12827.0,7.0,1,1,2,112,주점
+김치찜에 진심,35070,https://frandoor.co.kr/brands/ftc-20220531,30810.0,11.0,2,1,2,212,한식
+Blu Shaak(블루샥),99550,https://frandoor.co.kr/brands/ftc-20200802,12576.0,14.0,1,2,1,121,커피
+타다 라이트(TADA LITE),70000,LLM 추정값,2867.0,312.0,1,2,2,122,운송
+백남옥달인손만두,72300,https://frandoor.co.kr/brands/ftc-20170368,87272.0,22.0,2,2,1,221,기타 외식
+DK동키치킨,57800,https://frandoor.co.kr/brands/ftc-20171186,17342.0,7.0,2,1,2,212,치킨
+이레아이맘,30000,LLM 추정값,6215.0,10.0,1,1,2,112,인력 파견
+4242샌드위치,61500,https://frandoor.co.kr/brands/ftc-20220313,16483.0,1.0,1,1,2,112,서양식
+커넥츠 프랩 공시관,100000,LLM 추정값,7486.0,9.0,1,1,1,111,기타 교육
+디저트39,151800,https://frandoor.co.kr/brands/ftc-20150811,12819.0,69.0,1,2,1,121,커피
+신의한국수,74500,https://frandoor.co.kr/brands/ftc-20231201,46049.0,10.0,2,1,1,211,분식
+한결통아구찜,94400,https://frandoor.co.kr/brands/ftc-20200757,26974.0,5.0,2,1,1,211,한식
+정글비,100900,https://frandoor.co.kr/brands/ftc-20190748,11358.0,3.0,1,1,1,111,커피
+춘하추동,97270,https://frandoor.co.kr/brands/ftc-20130100257,14621.0,4.0,1,1,1,111,분식
+심쿵피어싱,40000,LLM 추정값,35425.0,6.0,2,1,2,212,기타도소매
+왕창이사,80000,LLM 추정값,19435.0,6.0,2,1,1,211,운송
+론썸헤이드,80000,LLM 추정값,8339.0,8.0,1,1,1,111,이미용
+아이스앤 스낵창고,50000,LLM 추정값,10689.0,29.0,1,2,2,122,기타도소매
+이가네양꼬치,108700,https://frandoor.co.kr/brands/ftc-20230855,30636.0,21.0,2,2,1,221,중식
+뜰커피,98800,https://frandoor.co.kr/brands/ftc-20180257,8947.0,4.0,1,1,1,111,커피
+911보일러할인마트,100000,LLM 추정값,6805.0,5.0,1,1,1,111,기타도소매
+쌍둥이숯불두마리치킨,23280,https://frandoor.co.kr/brands/ftc-20220395,22176.0,8.0,2,1,2,212,치킨
+허광웅의 아구세상,94600,https://frandoor.co.kr/brands/ftc-20210849,13736.0,5.0,1,1,1,111,한식
+그집곱닭도리탕,52800,https://frandoor.co.kr/brands/ftc-20201169,28463.0,4.0,2,1,2,212,한식
+대박삼겹김치찜&초대박등갈비김치찜,52800,https://frandoor.co.kr/brands/ftc-20212321,33618.0,11.0,2,1,2,212,한식
+와우당 냉면,52800,https://frandoor.co.kr/brands/ftc-20212322,18279.0,3.0,2,1,2,212,한식
+키즈엔리딩,40000,LLM 추정값,5368.0,15.0,1,2,2,122,교육 (외국어)
+오백국수,58130,https://frandoor.co.kr/brands/ftc-20171173,21436.0,3.0,2,1,2,212,분식
+온고지신 통닭원,28500,https://frandoor.co.kr/brands/ftc-20180167,25791.0,2.0,2,1,2,212,치킨
+피자엠소마,44410,https://frandoor.co.kr/brands/ftc-20200018,19853.0,5.0,2,1,2,212,피자
+시골 통돼지볶음,36330,https://frandoor.co.kr/brands/ftc-20150887,30217.0,1.0,2,1,2,212,한식
+아담만두,59430,https://frandoor.co.kr/brands/ftc-20214623,40363.0,13.0,2,2,2,222,한식
+포텐스터디카페,150000,LLM 추정값,7349.0,3.0,1,1,1,111,기타 서비스
+파스타앤우,72960,https://frandoor.co.kr/brands/ftc-20190044,1911.0,5.0,1,1,1,111,서양식
+계혁명,54700,https://frandoor.co.kr/brands/ftc-20230114,16669.0,4.0,2,1,2,212,치킨
+돈기부여,31900,https://frandoor.co.kr/brands/ftc-20210119,27354.0,5.0,2,1,2,212,기타 외식
+스테이크존,58400,https://frandoor.co.kr/brands/ftc-20180936,22518.0,4.0,2,1,2,212,서양식
+도깨비냉장고 아이스크림할인점,50000,LLM 추정값,5834.0,3.0,1,1,2,112,기타도소매
+잇쇼타코야끼,16630,https://frandoor.co.kr/brands/ftc-20230528,54137.0,14.0,2,2,2,222,일식
+마미묵은지찜,22400,https://frandoor.co.kr/brands/ftc-20221155,26349.0,1.0,2,1,2,212,한식
+메가후르츠,93200,https://frandoor.co.kr/brands/ftc-20211178,4082.0,11.0,1,1,1,111,한식
+응급닭발센터,47600,https://frandoor.co.kr/brands/ftc-20212331,1784.0,6.0,1,1,2,112,한식
+응급실국물떡볶이,48700,https://frandoor.co.kr/brands/ftc-20150164,17754.0,26.0,2,2,2,222,분식
+포트캔커피 PORT CAN COFFEE,81010,https://frandoor.co.kr/brands/ftc-20212334,27070.0,34.0,2,2,1,221,커피
+케이엠지엠홀덤앤이벤트펍(KMGM HOLD’EM & EVENT PUB),150800,https://frandoor.co.kr/brands/ftc-20180414,4071.0,15.0,1,2,1,121,주점
+컴포즈커피(COMPOSE COFFEE),83480,https://frandoor.co.kr/brands/ftc-20141250,21484.0,456.0,2,2,1,221,커피
+백채,63940,https://frandoor.co.kr/brands/ftc-20151296,21769.0,62.0,2,2,2,222,한식
+쿠우쿠우,700000,LLM 추정값,23149.0,7.0,2,1,1,211,일식
+부엉이산장,87700,https://frandoor.co.kr/brands/ftc-20214358,22648.0,14.0,2,2,1,221,한식
+슬로우캘리,82550,https://frandoor.co.kr/brands/ftc-20212429,29712.0,68.0,2,2,1,221,서양식
+화로상회,135080,https://frandoor.co.kr/brands/ftc-20170915,13697.0,14.0,1,2,1,121,기타 외식
+NiceCaffeinClub(NCC),73750,https://frandoor.co.kr/brands/ftc-20214429,19069.0,26.0,2,2,1,221,커피
+볶찜,47230,https://frandoor.co.kr/brands/ftc-20210019,28716.0,1.0,2,1,2,212,한식
+메콩타이,135220,https://frandoor.co.kr/brands/ftc-20130100223,26384.0,2.0,2,1,1,211,기타 외국식
+라사천마라탕,63010,https://frandoor.co.kr/brands/ftc-20220587,37465.0,19.0,2,2,2,222,중식
+더진국,118950,https://frandoor.co.kr/brands/ftc-20110100299,15332.0,16.0,1,2,1,121,한식
+고피자(GOPIZZA),86040,https://frandoor.co.kr/brands/ftc-20180511,30939.0,27.0,2,2,1,221,피자
+계림원누릉지통닭구이,93050,https://frandoor.co.kr/brands/ftc-20140218,11032.0,23.0,1,2,1,121,치킨
+점핑몬스터,200000,LLM 추정값,8763.0,3.0,1,1,1,111,기타 서비스
+한신우동,49820,https://frandoor.co.kr/brands/ftc-20201587,16619.0,26.0,1,2,2,122,분식
+타코비,50000,LLM 추정값,18458.0,14.0,2,2,2,222,기타 외식
+최배달 떡순튀,32130,https://frandoor.co.kr/brands/ftc-20191149,62896.0,12.0,2,2,2,222,분식
+피자닭터,68550,https://frandoor.co.kr/brands/ftc-20231326,23267.0,1.0,2,1,2,212,서양식
+가마로강정,44630,https://frandoor.co.kr/brands/ftc-20120100651,38481.0,43.0,2,2,2,222,치킨
+짬뽕관,145700,https://frandoor.co.kr/brands/ftc-20211548,22431.0,5.0,2,1,1,211,중식
+고깃리88번지,108740,https://frandoor.co.kr/brands/ftc-20212427,25468.0,1.0,2,1,1,211,한식
+수백당,90600,https://frandoor.co.kr/brands/ftc-20220177,21579.0,4.0,2,1,1,211,한식
+이태리양조장,120920,https://frandoor.co.kr/brands/ftc-20201331,14980.0,8.0,1,1,1,111,주점
+효자동설렁탕,120500,https://frandoor.co.kr/brands/ftc-20211133,10420.0,7.0,1,1,1,111,한식
+삼덕통닭,124130,https://frandoor.co.kr/brands/ftc-20191301,31861.0,8.0,2,1,1,211,치킨
+3X-LARGE COFFEE,140800,https://frandoor.co.kr/brands/ftc-20210291,12483.0,4.0,1,1,1,111,커피
+무봉리토종순대국,88800,https://frandoor.co.kr/brands/ftc-20120100397,5997.0,12.0,1,2,1,121,한식
+본가왕뼈 감자탕,89800,https://frandoor.co.kr/brands/ftc-20221254,24653.0,11.0,2,1,1,211,한식
+픽닷,120000,LLM 추정값,12045.0,21.0,1,2,1,121,기타 서비스
+포쉬네일,80000,LLM 추정값,7929.0,18.0,1,2,1,121,이미용
+DUX(덕스어학원),100000,LLM 추정값,6842.0,5.0,1,1,1,111,교육 (외국어)
+AI 펜덕스(AI penDUX),50000,LLM 추정값,5937.0,15.0,1,2,2,122,교육 (외국어)
+新 구멍가게 24,50000,LLM 추정값,7186.0,52.0,1,2,2,122,편의점
+차이(CHAI),91900,https://frandoor.co.kr/brands/ftc-20220816,11309.0,14.0,1,2,1,121,음료 (커피 외)
+커브스(Curves),180000,LLM 추정값,2639.0,52.0,1,2,1,121,스포츠 관련
+카페일분,64850,https://frandoor.co.kr/brands/ftc-20211699,3570.0,31.0,1,2,2,122,커피
+막이오름,101600,https://frandoor.co.kr/brands/ftc-20200879,16754.0,1.0,2,1,1,211,주점
+백스비어,80080,https://frandoor.co.kr/brands/ftc-20150426,9731.0,9.0,1,1,1,111,주점
+빽보이피자,66010,https://frandoor.co.kr/brands/ftc-20215019,34197.0,32.0,2,2,2,222,피자
+인생설렁탕,100550,https://frandoor.co.kr/brands/ftc-20190275,14157.0,5.0,1,1,1,111,한식
+홍콩반점0410,103610,https://frandoor.co.kr/brands/ftc-20080100210,30607.0,87.0,2,2,1,221,중식
+유캔두잇,51310,https://frandoor.co.kr/brands/ftc-20211100,8207.0,10.0,1,1,2,112,기타 외식
+빽다방,73070,LLM 추정값,27940.0,359.0,2,2,1,221,커피
+수내닭꼬치,52940,https://frandoor.co.kr/brands/ftc-20161160,14180.0,10.0,1,1,2,112,기타 외식
+잉글리시브레인스튜디오,50000,LLM 추정값,6666.0,6.0,1,1,2,112,교육 (외국어)
+견생냥품,50000,LLM 추정값,10990.0,14.0,1,2,2,122,기타도소매
+현방오백소갈비살,89150,https://frandoor.co.kr/brands/ftc-20210765,23047.0,20.0,2,2,1,221,한식
+소낙스 카케어,180000,LLM 추정값,7233.0,11.0,1,1,1,111,자동차 관련
+아몽즈커피(A Mong Z),75150,https://frandoor.co.kr/brands/ftc-20210294,10527.0,3.0,1,1,1,111,커피
+불막열삼,77900,https://frandoor.co.kr/brands/ftc-20160329,24216.0,4.0,2,1,1,211,한식
+라이즈어학원,150000,LLM 추정값,9018.0,7.0,1,1,1,111,교육 (외국어)
+비비큐(BBQ),90790,https://frandoor.co.kr/brands/ftc-20161241,46146.0,344.0,2,2,1,221,치킨
+뽁당,40500,https://frandoor.co.kr/brands/ftc-20214246,62547.0,15.0,2,2,2,222,한식
+봉구스밥버거,41140,https://frandoor.co.kr/brands/ftc-20130100004,10855.0,60.0,1,2,2,122,기타 외식
+모닝글로리,150000,LLM 추정값,7032.0,68.0,1,2,1,121,기타도소매
+긴자료코,80660,https://frandoor.co.kr/brands/ftc-20191034,32124.0,31.0,2,2,1,221,일식
+비상 딱풀리는수학,30000,LLM 추정값,515.0,27.0,1,2,2,122,교육 (교과)
+도미노피자,252500,https://frandoor.co.kr/brands/ftc-20080100159,26454.0,54.0,2,2,1,221,피자
+아이디헤어,200000,LLM 추정값,16976.0,27.0,2,2,1,221,이미용
+육미제당,202600,https://frandoor.co.kr/brands/ftc-20231282,16191.0,9.0,1,1,1,111,한식
+부어치킨,44850,https://frandoor.co.kr/brands/ftc-20080100487,10039.0,35.0,1,2,2,122,치킨
+마왕족발,92200,https://frandoor.co.kr/brands/ftc-20160884,27536.0,23.0,2,2,1,221,기타 외식
+북창동순두부,99380,https://frandoor.co.kr/brands/ftc-20080100324,18724.0,27.0,2,2,1,221,한식
+주니아(JUNIA),82500,https://frandoor.co.kr/brands/ftc-20190977,6981.0,3.0,1,1,1,111,커피
+틈새라면,46560,https://frandoor.co.kr/brands/ftc-20080100239,14404.0,22.0,1,2,2,122,분식
+고기극찬,36130,https://frandoor.co.kr/brands/ftc-20201014,30456.0,20.0,2,2,2,222,한식
+김순덕원조부안집,107620,https://frandoor.co.kr/brands/ftc-20191062,14647.0,15.0,1,2,1,121,한식
+냅다청양집,63560,https://frandoor.co.kr/brands/ftc-20200695,19375.0,8.0,2,1,2,212,한식
+땅스부대찌개,42600,https://frandoor.co.kr/brands/ftc-20170932,24573.0,63.0,2,2,2,222,한식
+고기싸롱,162230,https://frandoor.co.kr/brands/ftc-20200127,21142.0,37.0,2,2,1,221,한식
+천라쿵푸마라탕,107300,https://frandoor.co.kr/brands/ftc-20220321,34872.0,3.0,2,1,1,211,중식
+샤브로21,74580,https://frandoor.co.kr/brands/ftc-20230455,21131.0,29.0,2,2,1,221,한식
+3030영어,30000,LLM 추정값,3479.0,56.0,1,2,2,122,교육 (외국어)
+해쉬커피,93340,https://frandoor.co.kr/brands/ftc-20200441,11692.0,2.0,1,1,1,111,커피
+플랜에이치,100000,LLM 추정값,7723.0,32.0,1,2,1,121,이미용
+갯벌의 조개,105400,https://frandoor.co.kr/brands/ftc-20190659,20491.0,9.0,2,1,1,211,한식
+여수에서 온 나진국밥,86300,https://frandoor.co.kr/brands/ftc-20230718,19467.0,4.0,2,1,1,211,한식
+진교동찜닭,62500,https://frandoor.co.kr/brands/ftc-20230863,22836.0,14.0,2,2,2,222,한식
+리파인,140800,https://frandoor.co.kr/brands/ftc-20220554,35197.0,16.0,2,2,1,221,한식
+담가 화로구이,283190,https://frandoor.co.kr/brands/ftc-20201188,28153.0,1.0,2,1,1,211,한식
+노브랜드 버거(No Brand Burger),181470,https://frandoor.co.kr/brands/ftc-20190929,19791.0,24.0,2,2,1,221,패스트푸드
+예신,100000,LLM 추정값,10846.0,5.0,1,1,1,111,이미용
+빚은,150000,LLM 추정값,13754.0,6.0,1,1,1,111,기타 외식
+피자먹다,68200,https://frandoor.co.kr/brands/ftc-20212439,20715.0,16.0,2,2,2,222,피자
+친정맘산후도우미,30000,LLM 추정값,5826.0,8.0,1,1,2,112,기타 서비스
+샐러데이즈(Salad Days),65400,https://frandoor.co.kr/brands/ftc-20190092,8977.0,8.0,1,1,2,112,기타 외식
+88제육,22340,https://frandoor.co.kr/brands/ftc-20215839,47526.0,13.0,2,2,2,222,한식
+닥터모락,100000,LLM 추정값,16328.0,17.0,1,2,1,121,이미용
+탐앤탐스커피(TOMNTOMS COFFEE),210930,https://frandoor.co.kr/brands/ftc-20080100373,7246.0,47.0,1,2,1,121,커피
+두거리우신탕,57120,https://frandoor.co.kr/brands/ftc-20140647,21984.0,1.0,2,1,2,212,한식
+소림마라,78900,https://frandoor.co.kr/brands/ftc-20210315,42395.0,19.0,2,2,1,221,중식
+피나치공,59650,https://frandoor.co.kr/brands/ftc-20080100496,42257.0,55.0,2,2,2,222,서양식
+당신은지금치킨이땡긴다,48540,https://frandoor.co.kr/brands/ftc-20211217,26918.0,2.0,2,1,2,212,치킨
+레디션(Readytion),50000,LLM 추정값,8862.0,21.0,1,2,2,122,임대
+피자알볼로,105100,https://frandoor.co.kr/brands/ftc-20100100136,15091.0,34.0,1,2,1,121,피자
+보배반점,160110,https://frandoor.co.kr/brands/ftc-20181340,29217.0,26.0,2,2,1,221,중식
+멕시카나,31850,https://frandoor.co.kr/brands/ftc-20080100262,23339.0,43.0,2,2,2,222,치킨
+치킨인류,46300,https://frandoor.co.kr/brands/ftc-20201254,24371.0,1.0,2,1,2,212,치킨
+청년피자,64850,https://frandoor.co.kr/brands/ftc-20180249,50514.0,16.0,2,2,2,222,피자

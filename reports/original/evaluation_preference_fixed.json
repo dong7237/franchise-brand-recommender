@@ -1,0 +1,12 @@
+{
+  "test_profiles": 2000,
+  "hit_at_1": 0.5755,
+  "system_hit_at_4": 0.701,
+  "industry_hit_at_1": 0.94,
+  "top1_preference_aligned": 1.0,
+  "additional_preference_aligned": 1.0,
+  "profiles_with_4_recommendations": 0.714,
+  "average_recommendations_per_profile": 3.428,
+  "top1_affordable_rate": 0.8445,
+  "all_recommendations_affordable_rate": 0.7920070011668612
+}
